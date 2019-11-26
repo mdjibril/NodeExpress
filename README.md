@@ -5,5 +5,5 @@ using server
 using express
 using http-server
 
-for the folders using-server and using-express you will need to nmp install
+for the folders using-server and using-express you will need to run nmp install
 to intstall to neccessary npm packages
